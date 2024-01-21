@@ -39,4 +39,4 @@ Moreover, I love problem solving , which ultimately led me to pursue a degree in
 THANK YOU FOR VISITING 😄😄😄
 
 </p>
- <a href="mailto:avidian22@gmail.com"><img src="https://img.shields.io/badge/s.d.pravinraj@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
+ <a href="mailto:avidian22@gmail.com"><img src="https://img.shields.io/badge/avidian22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
