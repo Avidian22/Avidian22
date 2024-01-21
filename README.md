@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 😎</h1>
 
-Hi, my name is <b>AVIDIAN DIPESH SIVA</b>,and I am 20 years old. I come from <em>Negeri Sembilan, Malaysia</em>.In my free time,I love playing tennis with my friends and 
+Hi, my name is <b>AVIDIAN DIPESH SIVA</b>, a 20-year-old from <em>Negeri Sembilan, Malaysia</em>. Beyond academics, I enjoy tennis, camping, and hiking.
+Currently, I'm a <b><mark>first-year student pursuing a degree in *[Computer Science (Computer Networks & Security) with Honours]((https://comp.utm.my/secrh/))* at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>.  My choice stems from a genuine interest in the field and a passion for problem-solving. I'm eager to absorb knowledge, not just for a degree but to prepare for a fulfilling career.
 
-Currently, I'm a <b><mark>first-year student pursuing a degree in *[Computer Science (Computer Networks & Security) with Honours]((https://comp.utm.my/secrh/))* at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>. I chose this degree because I'm extremely interested in this field and want to gain as much knowledge as possible. I'm also attracted to the potential salary of this field and hope to learn everything I can both within and outside my degree in order to prepare for my future career.
-
-
-Moreover, I love problem solving , which ultimately led me to pursue a degree in computer science. I'm excited to see where this path takes me and am eager to continue exploring all the opportunities that come my way.
+Excited about the endless possibilities in computer science, I look forward to the challenges and growth ahead. Let the adventure begin!
 
 
 ### :man_technologist: About Me :
