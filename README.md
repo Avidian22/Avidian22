@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 😎</h1>
+<h1 align="center">Hi there!! 😄</h1>
 
 Hi, my name is <b>AVIDIAN DIPESH SIVA</b>, a 20-year-old from <em>Negeri Sembilan, Malaysia</em>. Beyond academics, I enjoy tennis, camping, and hiking.
 Currently, I'm a <b><mark>first-year student pursuing a degree in *[Computer Science (Computer Networks & Security) with Honours]((https://comp.utm.my/secrh/))* at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>.  My choice stems from a genuine interest in the field and a passion for problem-solving. I'm eager to absorb knowledge, not just for a degree but to prepare for a fulfilling career.
@@ -34,7 +34,6 @@ Excited about the endless possibilities in computer science, I look forward to t
  <a href="https://www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avi1__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/wernjie_/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/avidian-dipesh-43900a2b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yong-wern-jie-0a5b90261" height="30" width="40" /></a>
-THANK YOU FOR VISITING 😄😄😄
 
 </p>
  <a href="mailto:avidian22@gmail.com"><img src="https://img.shields.io/badge/avidian22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
