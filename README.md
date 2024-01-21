@@ -8,7 +8,7 @@ Excited about the endless possibilities in computer science, I look forward to t
 
 ### :man_technologist: About Me :
 
-- 📆 14/03/2004
+- 📆 22/12/2004
 - 🏫 Study at University Technology Malaysia
 - 📝 Bachelor of Computer Science (Computer Networks & Security) with Honours
 
